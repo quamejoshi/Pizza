@@ -1,2 +1,1 @@
-# Pizza
-My favorite Pizza Blog
+# pizza
